@@ -1,0 +1,22 @@
+@import "./lib/ele.scss";
+
+
+
+.look-more{
+    text-align: center;
+    background-color: #fff;
+    margin: 20px 0;
+    height: 45px;
+    line-height: 45px;
+}
+.text-right{
+    text-align: right;
+}
+.text-center{
+    text-align: center;
+}
+
+
+.scroll-optimize::-webkit-scrollbar {
+    width: 4px;
+}
